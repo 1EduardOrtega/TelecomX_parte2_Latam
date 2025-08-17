@@ -66,9 +66,9 @@ Se aplicaron técnicas de Machine Learning para predecir la evasion de clientes 
 ---
 
 ## 📝 Estrategias de retención sugeridas  
-•	Retener a clientes nuevos
-•	Revisión o flexibilizar los precios
-•	Promocionar contratos de largo plazo
-•	Incentivar al uso de pagos automáticos
-•	Promover los servicios adicionales como soporte técnico y seguridad.
+   - Retener a clientes nuevos
+   - Revisión o flexibilizar los precios
+   - Promocionar contratos de largo plazo
+   - Incentivar al uso de pagos automáticos
+   - Promover los servicios adicionales como soporte técnico y seguridad.
 ---
