@@ -59,7 +59,7 @@ Se aplicaron técnicas de Machine Learning para predecir la evasion de clientes 
 | KNN                 | 0.813     | 0.768     | **0.896** | 0.827    |
 
 **Conclusión:**  
-- El modelo con mejor rendimiento global es **Random Forest**.  
+- El modelo con mejor rendimiento en general es **Random Forest**.  
 - **KNN** destaca en *recall*, puede ser de utilidad para identificar clientes que presentan un mayor riesgo de evasión.  
 - **Árbol de Decisión** presento resultados buenos, sin embargo, fue superado en desempeño.  
 
