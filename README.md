@@ -21,12 +21,12 @@ Se aplicaron técnicas de Machine Learning para predecir la evasion de clientes 
    - Visualizaciones de patrones  
 
 2. **Preprocesamiento y transformación (ETL)**  
-  - Eliminación de columnas irrelevantes
-- Encoding
-- Verificación de la proporción de cancelación
-- Balanceo de clases
-- Análisis de correlación
-- Normalización de datos (para KNN)
+   - Eliminación de columnas irrelevantes
+   - Encoding
+   - Verificación de la proporción de cancelación
+   - Balanceo de clases
+   - Análisis de correlación
+   - Normalización de datos (para KNN)
 3. **Modelado y evaluación**  
    - Modelos utilizados:  
      - Árbol de Decisión  
