@@ -20,7 +20,7 @@ Se aplicaron técnicas de Machine Learning para predecir la evasion de clientes 
    - Análisis descriptivo  
    - Visualizaciones de patrones  
 
-2. **Preprocesamiento y transformación (ETL)**  
+2. **Preprocesamiento y transformación**  
    - Eliminación de columnas irrelevantes
    - Encoding
    - Verificación de la proporción de cancelación
