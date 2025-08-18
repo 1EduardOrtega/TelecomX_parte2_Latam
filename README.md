@@ -9,8 +9,8 @@ Se aplicaron técnicas de Machine Learning para predecir la evasion de clientes 
 ## Tecnologías utilizadas  
 - **Python**  
 - **Pandas, NumPy** : para el  procesamiento de datos
-- **Scikit-learn** : para el Modelado y métricas  
-- **Matplotlib, Seaborn** :para Visualización de graficas
+- **Scikit-learn** : para el modelado y métricas  
+- **Matplotlib, Seaborn** : para visualización de graficas
 - **Google Colab**  
 
 ---
