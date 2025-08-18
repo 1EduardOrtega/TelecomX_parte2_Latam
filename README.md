@@ -15,7 +15,7 @@ Se aplicaron técnicas de Machine Learning para predecir la evasion de clientes 
 
 ---
 
-## lujo del proyecto  
+## Flujo del proyecto  
 1. **Importación y exploración de datos**  
    - Análisis descriptivo  
    - Visualizaciones de patrones  
